@@ -17,6 +17,7 @@ public class Encryptor
         numCols = c;
     }
 
+
     public String[][] getLetterBlock()
     {
         return letterBlock;
